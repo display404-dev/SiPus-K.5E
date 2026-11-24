@@ -21,7 +21,7 @@ Repository ini kami gunakan sebagai media dalam pengumpulan tugas besar yang aka
 | No | Nama | NIM | GitHub |
 |----|------|-----|--------|
 | 1 | I Wayan Pande Nescari | 260530911152 | [@display404-dev](https://github.com/display404-dev) |
-| 2 | Anna Tasya Kartika  | 260530911071 | [@trsnput30](https://github.com/trsnput30) |
+| 2 | Anna Tasya Kartika  | 260530911071 | [@anna-tasya](https://github.com/anna-tasya) |
 
 ### Dosen Pengampu
 
